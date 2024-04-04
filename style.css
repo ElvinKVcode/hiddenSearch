@@ -1,0 +1,12 @@
+.searchClass {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+.searchClass a i {
+    border: 2px solid #000;
+    background-color: blue;
+}
